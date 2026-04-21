@@ -1,7 +1,7 @@
 # Full Stack Experiments
 
-**Name:** Sujal Gulati  
-**UID:** 24BDA70318
+**Name:** Daksh Gour
+**UID:** 24IBD70012
 
 ---
 
